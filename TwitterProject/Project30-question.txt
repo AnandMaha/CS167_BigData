@@ -1,0 +1,4 @@
+In Task 2, what Spark SQL function was run to extract the first element from the array_intersect output?
+element_at
+first
+find_in_set
